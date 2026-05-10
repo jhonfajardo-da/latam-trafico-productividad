@@ -70,11 +70,9 @@ El Latin American Development Bank (LADB) necesitaba priorizar su presupuesto de
 ## Archivos del repositorio
 | Archivo | Descripción |
 |---------|-------------|
-| `analisis_latam.ipynb` | Notebook Python con EDA completo |
-| `queries.sql` | Consultas SQL de extracción y transformación |
-| `dashboard.xlsx` | Visualizaciones y tablas de resultados |
-| `reporte_ladb.pdf` | Informe de recomendaciones para el LADB |
-| `images/` | Gráficas del análisis exploratorio |
+| `S5 ladb_mobility_economy_project_student.ipynb` | Notebook Python con EDA completo |
+| `Movilidad urbana y productividad económica` | Informe de recomendaciones para el LADB |
+| `Movilidad urbana y productividad económica.png` | Gráficas del análisis exploratorio |
 
 ---
 
